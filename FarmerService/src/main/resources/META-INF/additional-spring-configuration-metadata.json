@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "%clr(%d{yyyy-MM-dd",
+  "type": "java.lang.String",
+  "description": "A description for '%clr(%d{yyyy-MM-dd'"
+}]}
